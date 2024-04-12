@@ -1,3 +1,5 @@
+# Enligsh/[中文](./README_zh.md)
+
 # io-net-setup-mac
 
 This document describes how to setup IO net node on a mac host(with m1 or m2 cpu), in a much simpler way, withou needing to install docker desktop(huge and laggy on mac). We can complete all the steps in our terminal.

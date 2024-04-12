@@ -1,3 +1,5 @@
+# [Enligsh](./README.md)/中文
+
 # 在 mac 上配置 io.net 节点
 
 本文描述了如何在 Mac 主机（必须是 m1 或 m2 CPU）上以更简单的方式设置 IO net 节点。此方法无需安装 docker desktop（在 Mac 上体积庞大且运行缓慢）。我们可以在终端中完成所有步骤。
