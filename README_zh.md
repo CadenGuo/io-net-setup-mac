@@ -15,6 +15,9 @@
 ## 步骤
 本文 docker-desktop（官方步骤推荐使用该软件）本文使用一种更轻量级的 Linux 运行时， [colima](https://github.com/abiosoft/colima)。
 
+### 打开 Mac 的终端
+搜索“终端”并打开，接下来所有操作都在终端中进行。
+
 ### 安装一些工具
 ```bash
 brew install colima

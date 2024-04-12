@@ -15,6 +15,9 @@ In this doc, we use colima, an alternative linux vm engine on mac os, to provide
 ## Steps
 This guide doesn't use docker-desktop, which is recommended by the offical steps, but uses a light-weight Linux runtime provider, called [https://github.com/abiosoft/colima](https://github.com/abiosoft/colima).
 
+### Open Terminal on Mac
+Search for "terminal" app and open it. all the following setps will be perfomed in the terminal.
+
 ### Installing Dependencies
 ```bash
 brew install colima
